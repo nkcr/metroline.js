@@ -39,6 +39,21 @@ Finally, fire the javascript :
 new Metroline();
 ```
 
+**Note**  
+For best style, I assume you have at least the following css reset :
+
+```css
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+ul,li {
+	list-style-type: none;
+}
+```
+
 # Changelog
 
 ## v0.0.1
