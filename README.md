@@ -56,6 +56,10 @@ ul,li {
 
 # Changelog
 
+## v0.0.2
+
+Changed the way links switch style when scrolled. Now use a class "active" instead of manually apply style via javascript.
+
 ## v0.0.1
 
 First release
