@@ -2,13 +2,17 @@
 
 Add a line containing links to your sections. The line acts as a scrollbar.
 
+---
+
+![img](http://s30.postimg.org/4digxvhip/Capture_d_cran_2015_06_25_14_14_16.png)
+
 ## Prerequiste
 
 Use `Jquery`
 
 ## Install
 
-Get the javascript and css (or scaa) file from dist folder and include them.
+Get the javascript and css (or scss) files from the *dist* folder and include them.
 
 In your html, add after the body tag :
 
@@ -27,6 +31,12 @@ Then you need a section for each link. A section must have an id and the link's 
 <section data-title="Link1" id="Link1">
 ...
 </section>
+```
+
+Finally, fire the javascript :
+
+```javascript
+new Metroline();
 ```
 
 # Changelog
