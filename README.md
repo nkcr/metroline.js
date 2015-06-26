@@ -39,7 +39,7 @@ Finally, fire the javascript :
 new Metroline();
 ```
 
-**Note**  
+**Note**
 For best style, I assume you have at least the following css reset :
 
 ```css
@@ -55,6 +55,10 @@ ul,li {
 ```
 
 # Changelog
+
+## v0.0.3
+
+Fixed a style bug with the first link. Now javascript automatically add "active" class for the first <li>...</li>
 
 ## v0.0.2
 
