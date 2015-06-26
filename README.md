@@ -58,7 +58,7 @@ ul,li {
 
 ## v0.0.3
 
-Fixed a style bug with the first link. Now javascript automatically add "active" class for the first <li>...</li>
+Fixed a style bug with the first link. Now javascript automatically add "active" class for the first `<li>...</li>`
 
 ## v0.0.2
 
