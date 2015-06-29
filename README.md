@@ -56,6 +56,10 @@ ul,li {
 
 # Changelog
 
+## v0.0.4
+
+Take care that there is no links already present when adding links.
+
 ## v0.0.3
 
 Fixed a style bug with the first link. Now javascript automatically add "active" class for the first `<li>...</li>`
