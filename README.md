@@ -56,6 +56,11 @@ ul,li {
 
 # Changelog
 
+## v0.1.0
+
+Handle window resize.  
+Some code refactoring
+
 ## v0.0.4
 
 Take care that there is no links already present when adding links.
