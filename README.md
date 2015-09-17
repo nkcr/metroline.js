@@ -56,9 +56,13 @@ ul,li {
 
 # Changelog
 
+## v0.1.1
+
+Fixed bug wrongly displaying titles in some cases
+
 ## v0.1.0
 
-Handle window resize.  
+Handle window resize.
 Some code refactoring
 
 ## v0.0.4
