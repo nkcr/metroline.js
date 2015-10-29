@@ -1,0 +1,17 @@
+
+{
+  "name": "metroline.js",
+  "version": "0.1.2",
+  "description": "Adds friendly menu scrollbar",
+  "files": [
+    "lib/metroline.css",
+    "lib/metroline.min.js"
+  ],
+  "homepage": "https://github.com/nkcr/metroline.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nkcr/metroline.git"
+  },
+  "author": "Kocher Noémien",
+  "license": "MIT"
+}

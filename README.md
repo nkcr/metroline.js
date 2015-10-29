@@ -56,6 +56,10 @@ ul,li {
 
 # Changelog
 
+## v0.1.2
+
+Code cleaning
+
 ## v0.1.1
 
 Fixed bug wrongly displaying titles in some cases
