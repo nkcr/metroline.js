@@ -12,7 +12,15 @@ Use `Jquery`
 
 ## Install
 
+```
+npm install metroline.js
+```
+
+OR
+
 Get the javascript and css (or scss) files from the *dist* folder and include them.
+
+## Set up
 
 In your html, add after the body tag :
 
@@ -40,7 +48,7 @@ new Metroline();
 ```
 
 **Note**
-For best style, I assume you have at least the following css reset :
+For best style, it assumes you have at least the following css reset :
 
 ```css
 * {
