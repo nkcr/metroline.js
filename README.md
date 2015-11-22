@@ -44,7 +44,10 @@ In your html, add after the body tag :
 Then you need a section for each link. A section must have an id and the link's title :
 
 ```html
-<section data-title="Link1" id="Link1">
+<section data-title="Link1 title" id="Link1" class="fixed">
+...
+</section>
+<section data-title="Link2 title" id="Link2" class="scrolling">
 ...
 </section>
 ```
