@@ -8,7 +8,15 @@ Add a line containing links to your sections. The line acts as a scrollbar.
 
 ## Prerequiste
 
+**Javascript** :  
 Use `Jquery`
+
+**CSS**:  
+```
+html,body {
+  height: 100%;
+}
+```
 
 ## Install
 
